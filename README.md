@@ -43,3 +43,14 @@ Visualizes the dynamical evolution of the system in phase space.
 - Driven oscillator simulation
 - RK4 numerical integration
 - Animations
+
+## Sample Outputs
+
+### Displacement vs Time
+![Displacement Plot](displacement_vs_time.png)
+
+### Velocity vs Time
+![Velocity Plot](velocity_vs_time.png)
+
+### Phase Space Plot
+![Phase Space](phase_space.png)
